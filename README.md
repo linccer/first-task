@@ -1,4 +1,5 @@
 # Programa studentų duomenų įvedimui ir galutinio balo skaičiavimui
+Lina Čerepovičiūtė, 1gr.
 
 ## v0.1
 ### Funkcionalumas:
