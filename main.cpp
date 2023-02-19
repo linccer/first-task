@@ -73,10 +73,10 @@ int main () {
     while (add==true);
 
 
-    //pasirinkimai
+    //pasirinkimas
     cout<<"Spausdinti vidurki ar mediana? Vidurki - 'V', Mediana - 'M'\n";
-        cin>>choice;
-            while (choice!='v' && choice!='V' && choice!='m' && choice!='M') {cout<<"Klaida. Iveskite V arba M. "; cin.clear(); cin.ignore(); cin>>choice;}
+    cin>>choice;
+    while (choice!='v' && choice!='V' && choice!='m' && choice!='M') {cout<<"Klaida. Iveskite V arba M. "; cin.clear(); cin.ignore(); cin>>choice;}
 
     //print data
     cout<<endl<<left<<setw(15)<<"Vardas "
