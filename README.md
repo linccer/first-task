@@ -1,6 +1,15 @@
 # Programa studentų duomenų įvedimui ir galutinio balo skaičiavimui
 Lina Čerepovičiūtė, 1gr.
 
+## v0.3
+Funkcionalumas išliko toks pat kaip v0.2 versijos
+
+### Programos struktūros pokyčiai:
+	1. Programą sudaro du .cpp tipo failai: "main.cpp" ir "functions.cpp".
+	2. Programą sudaro du header (.h) tipo failai: "headeris.h" ir "functions.h".
+	3. "functions.cpp" faile aprašytos pagalbinės programos funkcijos 
+	4. "functions.h" faile aprašytos programoje naudojamos struktūros bei "functions.cpp" faile esančių funkcijų deklaracijos.
+
 ## v0.2
 ### Funkcionalumo pasikeitimai:
 	1. Programa leidžia vartotojui nuskaityti duomenis iš failo.
