@@ -1,0 +1,8 @@
+Vardas          Pavardė    ND1    ND2   ND3   ND4   ND5  Egzaminas
+Jonas             M                8        9        10       6         10       9
+Valentinas     T                 7        10       8        5         4        6
+Marija            K                10       10       10       9         5        8
+Valerija          A                9         10       8        9         7         9
+Tomas            A                8         6         7       4         5         8
+Darius            J                 9         9         8        9        10        8
+Antanas         K                7         6          8        7        5          7
