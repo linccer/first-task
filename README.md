@@ -1,6 +1,9 @@
 # Programa studentų duomenų įvedimui ir galutinio balo skaičiavimui
 Lina Čerepovičiūtė, 1gr.
 
+## v0.4
+---
+
 ## v0.3
 Funkcionalumas išliko toks pat kaip v0.2 versijos
 
